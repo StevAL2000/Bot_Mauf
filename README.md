@@ -17,6 +17,7 @@ frozenlist==1.6.0
 idna==3.10
 kiwisolver==1.4.8        
 matplotlib==3.10.3       
+mplfinance==0.12.10b0    
 multidict==6.4.3
 numpy==2.2.6
 packaging==25.0
